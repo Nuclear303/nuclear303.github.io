@@ -19,6 +19,7 @@ header>h1{
     border: 2px solid black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
-    width: 200px;
-    height:60px;
+    width: 300px;
+    height:auto;
+    text-align: center;
 }
